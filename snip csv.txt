@@ -1,0 +1,16 @@
+Name,Sport,Nationality,Age,Wt kg,Ht
+ABBAS Muhammad,Alpine Skiing,Pakistan,23,55,168
+ABBOTT Jeremy,Figure Skating,United States,24,,175
+ABLAEV Enver,Freestyle Skiing,Ukraine,30,68,169
+ABRAMASHVILI Iason,Alpine Skiing,Georgia,21,82,176
+ABRAMENKO Evgeny,Biathlon,Belarus,22,81,180
+ABRAMENKO Oleksandr,Freestyle Skiing,Ukraine,21,74,179
+ABRAMOVA Yekaterina,Speed Skating,Russia,27,65,167
+ABRAMOVITCH Dmitry,Bobsleigh,Russia,27,96,182
+ACHI Ghassan,Alpine Skiing,Lebanon,16,60,168
+ACTON Brigitte,Alpine Skiing,Canada,24,63,167
+ADJEI Richard,Bobsleigh,Germany,27,110,190
+AEBLI Christian,Bobsleigh,Switzerland,31,97,180
+AFINOGENOV Maxim,Ice Hockey,Russia,30,88,183
+AGOSTA Meghan,Ice Hockey,Canada,23,66,168
+AGOSTO Benjamin,Figure Skating,United States,28,,178
